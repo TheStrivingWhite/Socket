@@ -1,0 +1,6 @@
+platform :ios, '8.0'
+project 'HTTPSocket.xcodeproj'
+target 'HTTPSocket' do
+pod 'CocoaAsyncSocket'
+end
+
